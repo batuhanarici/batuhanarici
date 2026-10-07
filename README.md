@@ -1,16 +1,20 @@
-## Hi there 👋
+# Merhaba, ben Batuhan 👋
 
-<!--
-**batuhanarici/batuhanarici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Ziraat Mühendisliği (Bitki Koruma) öğrencisiyim
+💻 Mobil, web ve masaüstü uygulamalar geliştiriyorum
+🔬 İlgi alanlarım: tarımda yapay zekâ, biyokontrol, dijital tarım
 
-Here are some ideas to get you started:
+## 🚀 Projelerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Bibliotheca](https://github.com/batuhanarici/Bibliotheca)**: Masaüstü PDF kütüphane uygulaması
+- **[Universitely](https://github.com/batuhanarici/Universitely)**: (buraya tek cümlelik açıklama)
+- **[testmaker](https://github.com/batuhanarici/testmaker)**: (buraya tek cümlelik açıklama)
+- **[awesome-stars](https://github.com/batuhanarici/awesome-stars)**: Yıldızladığım GitHub repoları, kategorilere göre düzenlenmiş
+
+## 🛠️ Teknolojiler
+
+TypeScript · React · Electron · Flutter
+
+## 📫 İletişim
+
+[LinkedIn](https://linkedin.com/in/KULLANICI-ADIN)
