@@ -1,8 +1,8 @@
 # Merhaba, ben Batuhan 👋
 
-🌱 Ziraat Mühendisliği (Bitki Koruma) öğrencisiyim
+🌱 Ziraat Mühendisiyim
 💻 Mobil, web ve masaüstü uygulamalar geliştiriyorum
-🔬 İlgi alanlarım: tarımda yapay zekâ, biyokontrol, dijital tarım
+🔬 İlgi alanlarım: tarımda yapay zekâ, biyokontrol, dijital tarım, eğitim ve günlük kullanıma dair pratik araçlar
 
 ## 🚀 Projelerim
 
