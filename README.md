@@ -6,10 +6,10 @@
 
 ## 🚀 Projelerim
 
-- **[Bibliotheca](https://github.com/batuhanarici/Bibliotheca)**: Masaüstü PDF kütüphane uygulaması
-- **[Universitely](https://github.com/batuhanarici/Universitely)**: (buraya tek cümlelik açıklama)
-- **[testmaker](https://github.com/batuhanarici/testmaker)**: (buraya tek cümlelik açıklama)
-- **[awesome-stars](https://github.com/batuhanarici/awesome-stars)**: Yıldızladığım GitHub repoları, kategorilere göre düzenlenmiş
+- **[Bibliotheca](https://github.com/batuhanarici/Bibliotheca)**: Kişisel PDF kütüphanesi için masaüstü uygulaması (Electron, React, SQLite)
+- **[Universitely](https://github.com/batuhanarici/Universitely)**: Sınav hazırlığında deneme takibi ve konu bazlı zayıflık analizi (React, Supabase)
+- **[Vatsap](https://github.com/batuhanarici/Vatsap)**: Sınav karnelerini velilere WhatsApp'tan gönderen macOS aracı (Electron, React)
+- **[awesome-stars](https://github.com/batuhanarici/awesome-stars)**: Yıldızladığım 181 repo, 10 kategoride
 
 ## 🛠️ Teknolojiler
 
