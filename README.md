@@ -17,4 +17,4 @@ TypeScript · React · Electron · Flutter
 
 ## 📫 İletişim
 
-[LinkedIn](https://linkedin.com/in/KULLANICI-ADIN)
+[LinkedIn](https://www.linkedin.com/in/batuhanarici)
